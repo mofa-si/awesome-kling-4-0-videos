@@ -1,8 +1,8 @@
 # Kling 3.0 vs 4.0 for Ads (French)
 
-[![Preview](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2111063772802777344-preview.webp)](https://drama.so/features/kling-short-drama-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=lucas-ia-777344)
+[![Preview](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2111063772802777344-preview.webp)](https://drama.so/prompts/kling-4-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=lucas-ia-777344#comparison)
 
-**[▶ Make a short drama with Kling 4.0 on DramaSo](https://drama.so/features/kling-short-drama-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=lucas-ia-777344)** · [Original file](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2111063772802777344-video.mp4) · [Source post](https://x.com/Lucas_IA_/status/2111063772802777344)
+**[▶ Make a short drama with Kling 4.0 on DramaSo](https://drama.so/prompts/kling-4-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=lucas-ia-777344#comparison)** · [Original file](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2111063772802777344-video.mp4) · [Source post](https://x.com/Lucas_IA_/status/2111063772802777344)
 
 - Author / credit: Lucas | Ecom IA (@Lucas_IA_)
 - Duration: 15.09 seconds
@@ -20,4 +20,4 @@ The creator did not publish an exact prompt in the sources reviewed for this ent
 
 Original media, prompts and post text remain the property of their creators. See [media rights](../MEDIA-RIGHTS.md).
 
-[More Kling 4.0 work on DramaSo →](https://drama.so/features/kling-short-drama-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos)
+[More Kling 4.0 work on DramaSo →](https://drama.so/prompts/kling-4-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos)

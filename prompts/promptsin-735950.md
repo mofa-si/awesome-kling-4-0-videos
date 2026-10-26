@@ -1,8 +1,8 @@
 # WWI Dogfight: Kling 4.0 vs Seedance 2.5
 
-[![Preview](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2112499116995735950-preview.webp)](https://drama.so/features/kling-short-drama-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=promptsin-735950)
+[![Preview](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2112499116995735950-preview.webp)](https://drama.so/prompts/kling-4-0/promptsin-735950?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=promptsin-735950)
 
-**[▶ Make a short drama with Kling 4.0 on DramaSo](https://drama.so/features/kling-short-drama-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=promptsin-735950)** · [Original file](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2112499116995735950-video.mp4) · [Source post](https://x.com/PromptSin/status/2112499116995735950)
+**[▶ Make a short drama with Kling 4.0 on DramaSo](https://drama.so/prompts/kling-4-0/promptsin-735950?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=promptsin-735950)** · [Original file](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2112499116995735950-video.mp4) · [Source post](https://x.com/PromptSin/status/2112499116995735950)
 
 - Author / credit: PromptSin (@PromptSin)
 - Duration: 10.10 seconds
@@ -48,4 +48,4 @@ Prompt source: https://x.com/PromptSin/status/2112499136620810684
 
 Original media, prompts and post text remain the property of their creators. See [media rights](../MEDIA-RIGHTS.md).
 
-[More Kling 4.0 work on DramaSo →](https://drama.so/features/kling-short-drama-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos)
+[More Kling 4.0 work on DramaSo →](https://drama.so/prompts/kling-4-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos)

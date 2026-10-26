@@ -1,8 +1,8 @@
 # Torstein the Gatebreaker
 
-[![Preview](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2112554391496712605-preview.webp)](https://drama.so/features/kling-short-drama-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=itspixieverse-712605)
+[![Preview](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2112554391496712605-preview.webp)](https://drama.so/prompts/kling-4-0/itspixieverse-712605?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=itspixieverse-712605)
 
-**[▶ Make a short drama with Kling 4.0 on DramaSo](https://drama.so/features/kling-short-drama-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=itspixieverse-712605)** · [Original file](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2112554391496712605-video.mp4) · [Source post](https://x.com/itsPixieVerse/status/2112554391496712605)
+**[▶ Make a short drama with Kling 4.0 on DramaSo](https://drama.so/prompts/kling-4-0/itspixieverse-712605?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=itspixieverse-712605)** · [Original file](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2112554391496712605-video.mp4) · [Source post](https://x.com/itsPixieVerse/status/2112554391496712605)
 
 - Author / credit: PIXEL (@itsPixieVerse)
 - Duration: 30.12 seconds
@@ -43,4 +43,4 @@ Prompt source: https://x.com/itsPixieVerse/status/2112554401747578929
 
 Original media, prompts and post text remain the property of their creators. See [media rights](../MEDIA-RIGHTS.md).
 
-[More Kling 4.0 work on DramaSo →](https://drama.so/features/kling-short-drama-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos)
+[More Kling 4.0 work on DramaSo →](https://drama.so/prompts/kling-4-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos)

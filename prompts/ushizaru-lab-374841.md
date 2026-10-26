@@ -1,8 +1,8 @@
 # Amber Obsession (Music Video)
 
-[![Preview](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2111401353931374841-preview.webp)](https://drama.so/features/kling-short-drama-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=ushizaru-lab-374841)
+[![Preview](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2111401353931374841-preview.webp)](https://drama.so/prompts/kling-4-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=ushizaru-lab-374841#dialogue)
 
-**[▶ Make a short drama with Kling 4.0 on DramaSo](https://drama.so/features/kling-short-drama-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=ushizaru-lab-374841)** · [Original file](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2111401353931374841-video.mp4) · [Source post](https://x.com/Ushizaru_LAB/status/2111401353931374841)
+**[▶ Make a short drama with Kling 4.0 on DramaSo](https://drama.so/prompts/kling-4-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=ushizaru-lab-374841#dialogue)** · [Original file](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2111401353931374841-video.mp4) · [Source post](https://x.com/Ushizaru_LAB/status/2111401353931374841)
 
 - Author / credit: Ushizaru / うしざる (@Ushizaru_LAB)
 - Duration: 39.68 seconds
@@ -20,4 +20,4 @@ The creator did not publish an exact prompt in the sources reviewed for this ent
 
 Original media, prompts and post text remain the property of their creators. See [media rights](../MEDIA-RIGHTS.md).
 
-[More Kling 4.0 work on DramaSo →](https://drama.so/features/kling-short-drama-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos)
+[More Kling 4.0 work on DramaSo →](https://drama.so/prompts/kling-4-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos)

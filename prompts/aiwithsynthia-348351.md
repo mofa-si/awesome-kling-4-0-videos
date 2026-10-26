@@ -1,8 +1,8 @@
 # Frozen in Time: City Time-Lapse
 
-[![Preview](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2113237971449348351-preview.webp)](https://drama.so/features/kling-short-drama-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=aiwithsynthia-348351)
+[![Preview](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2113237971449348351-preview.webp)](https://drama.so/prompts/kling-4-0/aiwithsynthia-348351?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=aiwithsynthia-348351)
 
-**[▶ Make a short drama with Kling 4.0 on DramaSo](https://drama.so/features/kling-short-drama-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=aiwithsynthia-348351)** · [Original file](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2113237971449348351-video.mp4) · [Source post](https://x.com/AIwithSynthia/status/2113237971449348351)
+**[▶ Make a short drama with Kling 4.0 on DramaSo](https://drama.so/prompts/kling-4-0/aiwithsynthia-348351?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=aiwithsynthia-348351)** · [Original file](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2113237971449348351-video.mp4) · [Source post](https://x.com/AIwithSynthia/status/2113237971449348351)
 
 - Author / credit: Synthia (@AIwithSynthia)
 - Duration: 30.09 seconds
@@ -40,4 +40,4 @@ Prompt source: https://x.com/AIwithSynthia/status/2113237971449348351
 
 Original media, prompts and post text remain the property of their creators. See [media rights](../MEDIA-RIGHTS.md).
 
-[More Kling 4.0 work on DramaSo →](https://drama.so/features/kling-short-drama-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos)
+[More Kling 4.0 work on DramaSo →](https://drama.so/prompts/kling-4-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos)

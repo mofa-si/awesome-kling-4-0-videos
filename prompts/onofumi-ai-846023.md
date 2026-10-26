@@ -1,8 +1,8 @@
 # VFX Breakdown from One Prompt
 
-[![Preview](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2108487186777846023-preview.webp)](https://drama.so/features/kling-short-drama-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=onofumi-ai-846023)
+[![Preview](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2108487186777846023-preview.webp)](https://drama.so/prompts/kling-4-0/onofumi-ai-846023?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=onofumi-ai-846023)
 
-**[▶ Make a short drama with Kling 4.0 on DramaSo](https://drama.so/features/kling-short-drama-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=onofumi-ai-846023)** · [Original file](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2108487186777846023-video.mp4) · [Source post](https://x.com/onofumi_AI/status/2108487186777846023)
+**[▶ Make a short drama with Kling 4.0 on DramaSo](https://drama.so/prompts/kling-4-0/onofumi-ai-846023?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=onofumi-ai-846023)** · [Original file](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2108487186777846023-video.mp4) · [Source post](https://x.com/onofumi_AI/status/2108487186777846023)
 
 - Author / credit: おのふみ| 3D×動画生成×個人開発 (@onofumi_AI)
 - Duration: 10.10 seconds
@@ -24,4 +24,4 @@ Prompt source: https://x.com/onofumi_AI/status/2108487232302805020
 
 Original media, prompts and post text remain the property of their creators. See [media rights](../MEDIA-RIGHTS.md).
 
-[More Kling 4.0 work on DramaSo →](https://drama.so/features/kling-short-drama-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos)
+[More Kling 4.0 work on DramaSo →](https://drama.so/prompts/kling-4-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos)

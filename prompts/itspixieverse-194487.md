@@ -1,8 +1,8 @@
 # Painterly 2.5D Dragon (4.0 Flash)
 
-[![Preview](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2105140021565194487-preview.webp)](https://drama.so/features/kling-short-drama-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=itspixieverse-194487)
+[![Preview](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2105140021565194487-preview.webp)](https://drama.so/prompts/kling-4-0/itspixieverse-194487?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=itspixieverse-194487)
 
-**[▶ Make a short drama with Kling 4.0 on DramaSo](https://drama.so/features/kling-short-drama-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=itspixieverse-194487)** · [Original file](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2105140021565194487-video.mp4) · [Source post](https://x.com/itsPixieVerse/status/2105140021565194487)
+**[▶ Make a short drama with Kling 4.0 on DramaSo](https://drama.so/prompts/kling-4-0/itspixieverse-194487?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=itspixieverse-194487)** · [Original file](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2105140021565194487-video.mp4) · [Source post](https://x.com/itsPixieVerse/status/2105140021565194487)
 
 - Author / credit: PIXEL (@itsPixieVerse)
 - Duration: 19.02 seconds
@@ -35,4 +35,4 @@ Prompt source: https://x.com/itsPixieVerse/status/2105140025784738231
 
 Original media, prompts and post text remain the property of their creators. See [media rights](../MEDIA-RIGHTS.md).
 
-[More Kling 4.0 work on DramaSo →](https://drama.so/features/kling-short-drama-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos)
+[More Kling 4.0 work on DramaSo →](https://drama.so/prompts/kling-4-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos)

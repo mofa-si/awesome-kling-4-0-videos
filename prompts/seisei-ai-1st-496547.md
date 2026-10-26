@@ -1,8 +1,8 @@
 # Convenience-Store Clerk vs. Card Scalpers
 
-[![Preview](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2110853231316496547-preview.webp)](https://drama.so/features/kling-short-drama-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=seisei-ai-1st-496547)
+[![Preview](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2110853231316496547-preview.webp)](https://drama.so/prompts/kling-4-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=seisei-ai-1st-496547#action)
 
-**[▶ Make a short drama with Kling 4.0 on DramaSo](https://drama.so/features/kling-short-drama-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=seisei-ai-1st-496547)** · [Original file](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2110853231316496547-video.mp4) · [Source post](https://x.com/seisei_ai_1st/status/2110853231316496547)
+**[▶ Make a short drama with Kling 4.0 on DramaSo](https://drama.so/prompts/kling-4-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=seisei-ai-1st-496547#action)** · [Original file](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2110853231316496547-video.mp4) · [Source post](https://x.com/seisei_ai_1st/status/2110853231316496547)
 
 - Author / credit: 聖星あい＠AI愛好家 (@seisei_ai_1st)
 - Duration: 60.19 seconds
@@ -20,4 +20,4 @@ The creator did not publish an exact prompt in the sources reviewed for this ent
 
 Original media, prompts and post text remain the property of their creators. See [media rights](../MEDIA-RIGHTS.md).
 
-[More Kling 4.0 work on DramaSo →](https://drama.so/features/kling-short-drama-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos)
+[More Kling 4.0 work on DramaSo →](https://drama.so/prompts/kling-4-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos)

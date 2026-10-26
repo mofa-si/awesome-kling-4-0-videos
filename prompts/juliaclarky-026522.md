@@ -1,8 +1,8 @@
 # Subway Makeup Before Work
 
-[![Preview](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2113123922699026522-preview.webp)](https://drama.so/features/kling-short-drama-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=juliaclarky-026522)
+[![Preview](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2113123922699026522-preview.webp)](https://drama.so/prompts/kling-4-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=juliaclarky-026522#story)
 
-**[▶ Make a short drama with Kling 4.0 on DramaSo](https://drama.so/features/kling-short-drama-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=juliaclarky-026522)** · [Original file](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2113123922699026522-video.mp4) · [Source post](https://x.com/JuliaClarky/status/2113123922699026522)
+**[▶ Make a short drama with Kling 4.0 on DramaSo](https://drama.so/prompts/kling-4-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=juliaclarky-026522#story)** · [Original file](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2113123922699026522-video.mp4) · [Source post](https://x.com/JuliaClarky/status/2113123922699026522)
 
 - Author / credit: Julia Clark (@JuliaClarky)
 - Duration: 20.11 seconds
@@ -20,4 +20,4 @@ The creator did not publish an exact prompt in the sources reviewed for this ent
 
 Original media, prompts and post text remain the property of their creators. See [media rights](../MEDIA-RIGHTS.md).
 
-[More Kling 4.0 work on DramaSo →](https://drama.so/features/kling-short-drama-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos)
+[More Kling 4.0 work on DramaSo →](https://drama.so/prompts/kling-4-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos)

@@ -1,8 +1,8 @@
 # Wuxia Swordfight (4.0 Flash)
 
-[![Preview](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2104800942709465577-preview.webp)](https://drama.so/features/kling-short-drama-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=wuxiarocks-465577)
+[![Preview](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2104800942709465577-preview.webp)](https://drama.so/prompts/kling-4-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=wuxiarocks-465577#action)
 
-**[▶ Make a short drama with Kling 4.0 on DramaSo](https://drama.so/features/kling-short-drama-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=wuxiarocks-465577)** · [Original file](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2104800942709465577-video.mp4) · [Source post](https://x.com/WuxiaRocks/status/2104800942709465577)
+**[▶ Make a short drama with Kling 4.0 on DramaSo](https://drama.so/prompts/kling-4-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=wuxiarocks-465577#action)** · [Original file](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2104800942709465577-video.mp4) · [Source post](https://x.com/WuxiaRocks/status/2104800942709465577)
 
 - Author / credit: WuxIA Rocks (@WuxiaRocks)
 - Duration: 20.11 seconds
@@ -20,4 +20,4 @@ The creator did not publish an exact prompt in the sources reviewed for this ent
 
 Original media, prompts and post text remain the property of their creators. See [media rights](../MEDIA-RIGHTS.md).
 
-[More Kling 4.0 work on DramaSo →](https://drama.so/features/kling-short-drama-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos)
+[More Kling 4.0 work on DramaSo →](https://drama.so/prompts/kling-4-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos)

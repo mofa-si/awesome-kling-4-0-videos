@@ -1,8 +1,8 @@
 # Making Stupid Videos for a Living
 
-[![Preview](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2104984291826696250-preview.webp)](https://drama.so/features/kling-short-drama-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=pjaccetturo-696250)
+[![Preview](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2104984291826696250-preview.webp)](https://drama.so/prompts/kling-4-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=pjaccetturo-696250#story)
 
-**[▶ Make a short drama with Kling 4.0 on DramaSo](https://drama.so/features/kling-short-drama-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=pjaccetturo-696250)** · [Original file](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2104984291826696250-video.mp4) · [Source post](https://x.com/PJaccetturo/status/2104984291826696250)
+**[▶ Make a short drama with Kling 4.0 on DramaSo](https://drama.so/prompts/kling-4-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=pjaccetturo-696250#story)** · [Original file](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2104984291826696250-video.mp4) · [Source post](https://x.com/PJaccetturo/status/2104984291826696250)
 
 - Author / credit: PJ Ace (@PJaccetturo)
 - Duration: 31.02 seconds
@@ -20,4 +20,4 @@ The creator did not publish an exact prompt in the sources reviewed for this ent
 
 Original media, prompts and post text remain the property of their creators. See [media rights](../MEDIA-RIGHTS.md).
 
-[More Kling 4.0 work on DramaSo →](https://drama.so/features/kling-short-drama-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos)
+[More Kling 4.0 work on DramaSo →](https://drama.so/prompts/kling-4-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos)

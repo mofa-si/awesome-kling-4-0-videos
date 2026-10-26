@@ -1,8 +1,8 @@
 # Automotive Commercial, IMAX Style
 
-[![Preview](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2110947179057811727-preview.webp)](https://drama.so/features/kling-short-drama-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=diplomeme-811727)
+[![Preview](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2110947179057811727-preview.webp)](https://drama.so/prompts/kling-4-0/diplomeme-811727?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=diplomeme-811727)
 
-**[▶ Make a short drama with Kling 4.0 on DramaSo](https://drama.so/features/kling-short-drama-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=diplomeme-811727)** · [Original file](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2110947179057811727-video.mp4) · [Source post](https://x.com/Diplomeme/status/2110947179057811727)
+**[▶ Make a short drama with Kling 4.0 on DramaSo](https://drama.so/prompts/kling-4-0/diplomeme-811727?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=diplomeme-811727)** · [Original file](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2110947179057811727-video.mp4) · [Source post](https://x.com/Diplomeme/status/2110947179057811727)
 
 - Author / credit: ᴍᴜʀᴘʜʏ (@Diplomeme)
 - Duration: 30.09 seconds
@@ -24,4 +24,4 @@ Prompt source: https://x.com/Diplomeme/status/2110947179057811727
 
 Original media, prompts and post text remain the property of their creators. See [media rights](../MEDIA-RIGHTS.md).
 
-[More Kling 4.0 work on DramaSo →](https://drama.so/features/kling-short-drama-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos)
+[More Kling 4.0 work on DramaSo →](https://drama.so/prompts/kling-4-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos)

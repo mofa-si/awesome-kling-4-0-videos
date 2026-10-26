@@ -1,8 +1,8 @@
 # Up to 10 Keyframes
 
-[![Preview](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2111562897478529279-preview.webp)](https://drama.so/features/kling-short-drama-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=suzukiphill-529279)
+[![Preview](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2111562897478529279-preview.webp)](https://drama.so/prompts/kling-4-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=suzukiphill-529279#workflow)
 
-**[▶ Make a short drama with Kling 4.0 on DramaSo](https://drama.so/features/kling-short-drama-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=suzukiphill-529279)** · [Original file](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2111562897478529279-video.mp4) · [Source post](https://x.com/Suzukiphill/status/2111562897478529279)
+**[▶ Make a short drama with Kling 4.0 on DramaSo](https://drama.so/prompts/kling-4-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=suzukiphill-529279#workflow)** · [Original file](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2111562897478529279-video.mp4) · [Source post](https://x.com/Suzukiphill/status/2111562897478529279)
 
 - Author / credit: おにぎり｜動画編集とAI映像の始め方 (@Suzukiphill)
 - Duration: 10.10 seconds
@@ -20,4 +20,4 @@ The creator did not publish an exact prompt in the sources reviewed for this ent
 
 Original media, prompts and post text remain the property of their creators. See [media rights](../MEDIA-RIGHTS.md).
 
-[More Kling 4.0 work on DramaSo →](https://drama.so/features/kling-short-drama-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos)
+[More Kling 4.0 work on DramaSo →](https://drama.so/prompts/kling-4-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos)

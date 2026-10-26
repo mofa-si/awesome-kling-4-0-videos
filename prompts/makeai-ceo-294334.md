@@ -1,8 +1,8 @@
 # Claude Code × Kling 4.0 Anime
 
-[![Preview](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2111086853747294334-preview.webp)](https://drama.so/features/kling-short-drama-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=makeai-ceo-294334)
+[![Preview](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2111086853747294334-preview.webp)](https://drama.so/prompts/kling-4-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=makeai-ceo-294334#workflow)
 
-**[▶ Make a short drama with Kling 4.0 on DramaSo](https://drama.so/features/kling-short-drama-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=makeai-ceo-294334)** · [Original file](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2111086853747294334-video.mp4) · [Source post](https://x.com/MakeAI_CEO/status/2111086853747294334)
+**[▶ Make a short drama with Kling 4.0 on DramaSo](https://drama.so/prompts/kling-4-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=makeai-ceo-294334#workflow)** · [Original file](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2111086853747294334-video.mp4) · [Source post](https://x.com/MakeAI_CEO/status/2111086853747294334)
 
 - Author / credit: mana｜株式会社MakeAI CEO (@MakeAI_CEO)
 - Duration: 62.14 seconds
@@ -20,4 +20,4 @@ The creator did not publish an exact prompt in the sources reviewed for this ent
 
 Original media, prompts and post text remain the property of their creators. See [media rights](../MEDIA-RIGHTS.md).
 
-[More Kling 4.0 work on DramaSo →](https://drama.so/features/kling-short-drama-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos)
+[More Kling 4.0 work on DramaSo →](https://drama.so/prompts/kling-4-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos)

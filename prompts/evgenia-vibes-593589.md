@@ -1,8 +1,8 @@
 # Arrow to Jeweled Fish: Seedance 2.5 vs Kling 4.0
 
-[![Preview](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2113652107194593589-preview.webp)](https://drama.so/features/kling-short-drama-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=evgenia-vibes-593589)
+[![Preview](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2113652107194593589-preview.webp)](https://drama.so/prompts/kling-4-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=evgenia-vibes-593589#comparison)
 
-**[▶ Make a short drama with Kling 4.0 on DramaSo](https://drama.so/features/kling-short-drama-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=evgenia-vibes-593589)** · [Original file](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2113652107194593589-video.mp4) · [Source post](https://x.com/evgenia_vibes/status/2113652107194593589)
+**[▶ Make a short drama with Kling 4.0 on DramaSo](https://drama.so/prompts/kling-4-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=evgenia-vibes-593589#comparison)** · [Original file](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2113652107194593589-video.mp4) · [Source post](https://x.com/evgenia_vibes/status/2113652107194593589)
 
 - Author / credit: ꧁EVGENIA꧂🐉 (@evgenia_vibes)
 - Duration: 12.93 seconds
@@ -20,4 +20,4 @@ The creator did not publish an exact prompt in the sources reviewed for this ent
 
 Original media, prompts and post text remain the property of their creators. See [media rights](../MEDIA-RIGHTS.md).
 
-[More Kling 4.0 work on DramaSo →](https://drama.so/features/kling-short-drama-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos)
+[More Kling 4.0 work on DramaSo →](https://drama.so/prompts/kling-4-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos)

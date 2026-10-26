@@ -1,8 +1,8 @@
 # Retro Collage "AI Slop": 3 Models
 
-[![Preview](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2112181881265696866-preview.webp)](https://drama.so/features/kling-short-drama-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=aliceinfoai-696866)
+[![Preview](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2112181881265696866-preview.webp)](https://drama.so/prompts/kling-4-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=aliceinfoai-696866#comparison)
 
-**[▶ Make a short drama with Kling 4.0 on DramaSo](https://drama.so/features/kling-short-drama-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=aliceinfoai-696866)** · [Original file](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2112181881265696866-video.mp4) · [Source post](https://x.com/AliceInfoAi/status/2112181881265696866)
+**[▶ Make a short drama with Kling 4.0 on DramaSo](https://drama.so/prompts/kling-4-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=aliceinfoai-696866#comparison)** · [Original file](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2112181881265696866-video.mp4) · [Source post](https://x.com/AliceInfoAi/status/2112181881265696866)
 
 - Author / credit: Alice The Ai Expert (@AliceInfoAi)
 - Duration: 15.21 seconds
@@ -20,4 +20,4 @@ The creator did not publish an exact prompt in the sources reviewed for this ent
 
 Original media, prompts and post text remain the property of their creators. See [media rights](../MEDIA-RIGHTS.md).
 
-[More Kling 4.0 work on DramaSo →](https://drama.so/features/kling-short-drama-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos)
+[More Kling 4.0 work on DramaSo →](https://drama.so/prompts/kling-4-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos)

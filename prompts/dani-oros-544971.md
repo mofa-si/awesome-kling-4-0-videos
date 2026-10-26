@@ -1,8 +1,8 @@
 # First Anime Fight Test
 
-[![Preview](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2110790297458544971-preview.webp)](https://drama.so/features/kling-short-drama-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=dani-oros-544971)
+[![Preview](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2110790297458544971-preview.webp)](https://drama.so/prompts/kling-4-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=dani-oros-544971#action)
 
-**[▶ Make a short drama with Kling 4.0 on DramaSo](https://drama.so/features/kling-short-drama-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=dani-oros-544971)** · [Original file](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2110790297458544971-video.mp4) · [Source post](https://x.com/Dani__oros/status/2110790297458544971)
+**[▶ Make a short drama with Kling 4.0 on DramaSo](https://drama.so/prompts/kling-4-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=dani-oros-544971#action)** · [Original file](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2110790297458544971-video.mp4) · [Source post](https://x.com/Dani__oros/status/2110790297458544971)
 
 - Author / credit: Danioros (@Dani__oros)
 - Duration: 30.09 seconds
@@ -20,4 +20,4 @@ The creator did not publish an exact prompt in the sources reviewed for this ent
 
 Original media, prompts and post text remain the property of their creators. See [media rights](../MEDIA-RIGHTS.md).
 
-[More Kling 4.0 work on DramaSo →](https://drama.so/features/kling-short-drama-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos)
+[More Kling 4.0 work on DramaSo →](https://drama.so/prompts/kling-4-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos)

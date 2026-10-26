@@ -1,8 +1,8 @@
 # Anime Last Shot: Hailuo H3 vs Kling 4.0
 
-[![Preview](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2113988692570456163-preview.webp)](https://drama.so/features/kling-short-drama-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=iancu-ai-456163)
+[![Preview](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2113988692570456163-preview.webp)](https://drama.so/prompts/kling-4-0/iancu-ai-456163?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=iancu-ai-456163)
 
-**[▶ Make a short drama with Kling 4.0 on DramaSo](https://drama.so/features/kling-short-drama-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=iancu-ai-456163)** · [Original file](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2113988692570456163-video.mp4) · [Source post](https://x.com/Iancu_ai/status/2113988692570456163)
+**[▶ Make a short drama with Kling 4.0 on DramaSo](https://drama.so/prompts/kling-4-0/iancu-ai-456163?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=iancu-ai-456163)** · [Original file](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2113988692570456163-video.mp4) · [Source post](https://x.com/Iancu_ai/status/2113988692570456163)
 
 - Author / credit: Mr.Iancu (@Iancu_ai)
 - Duration: 15.08 seconds
@@ -38,4 +38,4 @@ Prompt source: https://x.com/Iancu_ai/status/2113988696479547703
 
 Original media, prompts and post text remain the property of their creators. See [media rights](../MEDIA-RIGHTS.md).
 
-[More Kling 4.0 work on DramaSo →](https://drama.so/features/kling-short-drama-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos)
+[More Kling 4.0 work on DramaSo →](https://drama.so/prompts/kling-4-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos)

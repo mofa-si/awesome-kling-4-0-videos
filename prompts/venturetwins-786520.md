@@ -1,8 +1,8 @@
 # One-Shot Real Estate Walkthrough
 
-[![Preview](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2114094246550786520-preview.webp)](https://drama.so/features/kling-short-drama-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=venturetwins-786520)
+[![Preview](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2114094246550786520-preview.webp)](https://drama.so/prompts/kling-4-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=venturetwins-786520#ads)
 
-**[▶ Make a short drama with Kling 4.0 on DramaSo](https://drama.so/features/kling-short-drama-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=venturetwins-786520)** · [Original file](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2114094246550786520-video.mp4) · [Source post](https://x.com/venturetwins/status/2114094246550786520)
+**[▶ Make a short drama with Kling 4.0 on DramaSo](https://drama.so/prompts/kling-4-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=venturetwins-786520#ads)** · [Original file](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2114094246550786520-video.mp4) · [Source post](https://x.com/venturetwins/status/2114094246550786520)
 
 - Author / credit: Justine Moore (@venturetwins)
 - Duration: 29.14 seconds
@@ -20,4 +20,4 @@ The creator did not publish an exact prompt in the sources reviewed for this ent
 
 Original media, prompts and post text remain the property of their creators. See [media rights](../MEDIA-RIGHTS.md).
 
-[More Kling 4.0 work on DramaSo →](https://drama.so/features/kling-short-drama-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos)
+[More Kling 4.0 work on DramaSo →](https://drama.so/prompts/kling-4-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos)

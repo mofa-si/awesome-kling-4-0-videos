@@ -1,8 +1,8 @@
 # 30-Second Boyfriend-POV Summer Walk
 
-[![Preview](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2110924173619138656-preview.webp)](https://drama.so/features/kling-short-drama-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=agi-aibusi-138656)
+[![Preview](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2110924173619138656-preview.webp)](https://drama.so/prompts/kling-4-0/agi-aibusi-138656?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=agi-aibusi-138656)
 
-**[▶ Make a short drama with Kling 4.0 on DramaSo](https://drama.so/features/kling-short-drama-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=agi-aibusi-138656)** · [Original file](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2110924173619138656-video.mp4) · [Source post](https://x.com/agi_aibusi/status/2110924173619138656)
+**[▶ Make a short drama with Kling 4.0 on DramaSo](https://drama.so/prompts/kling-4-0/agi-aibusi-138656?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=agi-aibusi-138656)** · [Original file](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2110924173619138656-video.mp4) · [Source post](https://x.com/agi_aibusi/status/2110924173619138656)
 
 - Author / credit: あぎ (@agi_aibusi)
 - Duration: 30.09 seconds
@@ -115,4 +115,4 @@ Prompt source: https://x.com/agi_aibusi/status/2110924176890757483
 
 Original media, prompts and post text remain the property of their creators. See [media rights](../MEDIA-RIGHTS.md).
 
-[More Kling 4.0 work on DramaSo →](https://drama.so/features/kling-short-drama-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos)
+[More Kling 4.0 work on DramaSo →](https://drama.so/prompts/kling-4-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos)

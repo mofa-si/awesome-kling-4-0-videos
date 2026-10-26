@@ -1,8 +1,8 @@
 # A Cat's Night Out in One Take
 
-[![Preview](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2110797373584887907-preview.webp)](https://drama.so/features/kling-short-drama-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=umesh-ai-887907)
+[![Preview](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2110797373584887907-preview.webp)](https://drama.so/prompts/kling-4-0/umesh-ai-887907?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=umesh-ai-887907)
 
-**[▶ Make a short drama with Kling 4.0 on DramaSo](https://drama.so/features/kling-short-drama-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=umesh-ai-887907)** · [Original file](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2110797373584887907-video.mp4) · [Source post](https://x.com/umesh_ai/status/2110797373584887907)
+**[▶ Make a short drama with Kling 4.0 on DramaSo](https://drama.so/prompts/kling-4-0/umesh-ai-887907?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=umesh-ai-887907)** · [Original file](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2110797373584887907-video.mp4) · [Source post](https://x.com/umesh_ai/status/2110797373584887907)
 
 - Author / credit: Umesh (@umesh_ai)
 - Duration: 20.11 seconds
@@ -24,4 +24,4 @@ Prompt source: https://x.com/umesh_ai/status/2110797376827035806
 
 Original media, prompts and post text remain the property of their creators. See [media rights](../MEDIA-RIGHTS.md).
 
-[More Kling 4.0 work on DramaSo →](https://drama.so/features/kling-short-drama-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos)
+[More Kling 4.0 work on DramaSo →](https://drama.so/prompts/kling-4-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos)

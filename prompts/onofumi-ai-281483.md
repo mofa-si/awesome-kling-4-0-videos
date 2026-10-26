@@ -1,8 +1,8 @@
 # Steampunk World, 1080p
 
-[![Preview](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2105211939316281483-preview.webp)](https://drama.so/features/kling-short-drama-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=onofumi-ai-281483)
+[![Preview](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2105211939316281483-preview.webp)](https://drama.so/prompts/kling-4-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=onofumi-ai-281483#worlds)
 
-**[▶ Make a short drama with Kling 4.0 on DramaSo](https://drama.so/features/kling-short-drama-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=onofumi-ai-281483)** · [Original file](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2105211939316281483-video.mp4) · [Source post](https://x.com/onofumi_AI/status/2105211939316281483)
+**[▶ Make a short drama with Kling 4.0 on DramaSo](https://drama.so/prompts/kling-4-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=onofumi-ai-281483#worlds)** · [Original file](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2105211939316281483-video.mp4) · [Source post](https://x.com/onofumi_AI/status/2105211939316281483)
 
 - Author / credit: おのふみ| 3D×動画生成×個人開発 (@onofumi_AI)
 - Duration: 13.58 seconds
@@ -20,4 +20,4 @@ The creator did not publish an exact prompt in the sources reviewed for this ent
 
 Original media, prompts and post text remain the property of their creators. See [media rights](../MEDIA-RIGHTS.md).
 
-[More Kling 4.0 work on DramaSo →](https://drama.so/features/kling-short-drama-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos)
+[More Kling 4.0 work on DramaSo →](https://drama.so/prompts/kling-4-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos)

@@ -1,8 +1,8 @@
 # Midjourney Image to Kling 4.0 Video
 
-[![Preview](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2113133392539840555-preview.webp)](https://drama.so/features/kling-short-drama-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=liluocheng13-840555)
+[![Preview](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2113133392539840555-preview.webp)](https://drama.so/prompts/kling-4-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=liluocheng13-840555#worlds)
 
-**[▶ Make a short drama with Kling 4.0 on DramaSo](https://drama.so/features/kling-short-drama-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=liluocheng13-840555)** · [Original file](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2113133392539840555-video.mp4) · [Source post](https://x.com/liluocheng13/status/2113133392539840555)
+**[▶ Make a short drama with Kling 4.0 on DramaSo](https://drama.so/prompts/kling-4-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=liluocheng13-840555#worlds)** · [Original file](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2113133392539840555-video.mp4) · [Source post](https://x.com/liluocheng13/status/2113133392539840555)
 
 - Author / credit: Zidan 子丹 (@liluocheng13)
 - Duration: 15.09 seconds
@@ -20,4 +20,4 @@ The creator did not publish an exact prompt in the sources reviewed for this ent
 
 Original media, prompts and post text remain the property of their creators. See [media rights](../MEDIA-RIGHTS.md).
 
-[More Kling 4.0 work on DramaSo →](https://drama.so/features/kling-short-drama-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos)
+[More Kling 4.0 work on DramaSo →](https://drama.so/prompts/kling-4-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos)

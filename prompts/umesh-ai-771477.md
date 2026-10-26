@@ -1,8 +1,8 @@
 # Whale Breach from Two Viewpoints (4.0 Flash)
 
-[![Preview](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2109174564307771477-preview.webp)](https://drama.so/features/kling-short-drama-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=umesh-ai-771477)
+[![Preview](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2109174564307771477-preview.webp)](https://drama.so/prompts/kling-4-0/umesh-ai-771477?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=umesh-ai-771477)
 
-**[▶ Make a short drama with Kling 4.0 on DramaSo](https://drama.so/features/kling-short-drama-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=umesh-ai-771477)** · [Original file](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2109174564307771477-video.mp4) · [Source post](https://x.com/umesh_ai/status/2109174564307771477)
+**[▶ Make a short drama with Kling 4.0 on DramaSo](https://drama.so/prompts/kling-4-0/umesh-ai-771477?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=umesh-ai-771477)** · [Original file](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2109174564307771477-video.mp4) · [Source post](https://x.com/umesh_ai/status/2109174564307771477)
 
 - Author / credit: Umesh (@umesh_ai)
 - Duration: 15.09 seconds
@@ -24,4 +24,4 @@ Prompt source: https://x.com/umesh_ai/status/2109174567352824224
 
 Original media, prompts and post text remain the property of their creators. See [media rights](../MEDIA-RIGHTS.md).
 
-[More Kling 4.0 work on DramaSo →](https://drama.so/features/kling-short-drama-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos)
+[More Kling 4.0 work on DramaSo →](https://drama.so/prompts/kling-4-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos)

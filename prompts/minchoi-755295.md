@@ -1,8 +1,8 @@
 # UGC Character at Brunch
 
-[![Preview](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2111471573395755295-preview.webp)](https://drama.so/features/kling-short-drama-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=minchoi-755295)
+[![Preview](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2111471573395755295-preview.webp)](https://drama.so/prompts/kling-4-0/minchoi-755295?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=minchoi-755295)
 
-**[▶ Make a short drama with Kling 4.0 on DramaSo](https://drama.so/features/kling-short-drama-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=minchoi-755295)** · [Original file](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2111471573395755295-video.mp4) · [Source post](https://x.com/minchoi/status/2111471573395755295)
+**[▶ Make a short drama with Kling 4.0 on DramaSo](https://drama.so/prompts/kling-4-0/minchoi-755295?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=minchoi-755295)** · [Original file](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2111471573395755295-video.mp4) · [Source post](https://x.com/minchoi/status/2111471573395755295)
 
 - Author / credit: Min Choi (@minchoi)
 - Duration: 30.09 seconds
@@ -24,4 +24,4 @@ Prompt source: https://x.com/minchoi/status/2111471573395755295
 
 Original media, prompts and post text remain the property of their creators. See [media rights](../MEDIA-RIGHTS.md).
 
-[More Kling 4.0 work on DramaSo →](https://drama.so/features/kling-short-drama-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos)
+[More Kling 4.0 work on DramaSo →](https://drama.so/prompts/kling-4-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos)

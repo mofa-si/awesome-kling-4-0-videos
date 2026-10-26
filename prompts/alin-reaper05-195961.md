@@ -1,8 +1,8 @@
 # Expedition to the Alien Ruins (4.0 Flash)
 
-[![Preview](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2109581272578195961-preview.webp)](https://drama.so/features/kling-short-drama-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=alin-reaper05-195961)
+[![Preview](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2109581272578195961-preview.webp)](https://drama.so/prompts/kling-4-0/alin-reaper05-195961?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=alin-reaper05-195961)
 
-**[▶ Make a short drama with Kling 4.0 on DramaSo](https://drama.so/features/kling-short-drama-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=alin-reaper05-195961)** · [Original file](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2109581272578195961-video.mp4) · [Source post](https://x.com/Alin_Reaper05/status/2109581272578195961)
+**[▶ Make a short drama with Kling 4.0 on DramaSo](https://drama.so/prompts/kling-4-0/alin-reaper05-195961?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=alin-reaper05-195961)** · [Original file](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2109581272578195961-video.mp4) · [Source post](https://x.com/Alin_Reaper05/status/2109581272578195961)
 
 - Author / credit: Alin (@Alin_Reaper05)
 - Duration: 20.11 seconds
@@ -24,4 +24,4 @@ Prompt source: https://x.com/Alin_Reaper05/status/2109581274755027228
 
 Original media, prompts and post text remain the property of their creators. See [media rights](../MEDIA-RIGHTS.md).
 
-[More Kling 4.0 work on DramaSo →](https://drama.so/features/kling-short-drama-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos)
+[More Kling 4.0 work on DramaSo →](https://drama.so/prompts/kling-4-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos)

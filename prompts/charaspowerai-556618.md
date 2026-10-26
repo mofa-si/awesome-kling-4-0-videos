@@ -1,8 +1,8 @@
 # Dialogue and Facial Expression Test
 
-[![Preview](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2111774411535556618-preview.webp)](https://drama.so/features/kling-short-drama-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=charaspowerai-556618)
+[![Preview](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2111774411535556618-preview.webp)](https://drama.so/prompts/kling-4-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=charaspowerai-556618#dialogue)
 
-**[▶ Make a short drama with Kling 4.0 on DramaSo](https://drama.so/features/kling-short-drama-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=charaspowerai-556618)** · [Original file](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2111774411535556618-video.mp4) · [Source post](https://x.com/CharaspowerAI/status/2111774411535556618)
+**[▶ Make a short drama with Kling 4.0 on DramaSo](https://drama.so/prompts/kling-4-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=charaspowerai-556618#dialogue)** · [Original file](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2111774411535556618-video.mp4) · [Source post](https://x.com/CharaspowerAI/status/2111774411535556618)
 
 - Author / credit: Pierrick Chevallier | IA (@CharaspowerAI)
 - Duration: 20.11 seconds
@@ -20,4 +20,4 @@ The creator did not publish an exact prompt in the sources reviewed for this ent
 
 Original media, prompts and post text remain the property of their creators. See [media rights](../MEDIA-RIGHTS.md).
 
-[More Kling 4.0 work on DramaSo →](https://drama.so/features/kling-short-drama-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos)
+[More Kling 4.0 work on DramaSo →](https://drama.so/prompts/kling-4-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos)

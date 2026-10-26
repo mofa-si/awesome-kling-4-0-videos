@@ -1,8 +1,8 @@
 # Kling 4.0 First Try
 
-[![Preview](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2113407929311486415-preview.webp)](https://drama.so/features/kling-short-drama-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=unfukashigi-486415)
+[![Preview](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2113407929311486415-preview.webp)](https://drama.so/prompts/kling-4-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=unfukashigi-486415#story)
 
-**[▶ Make a short drama with Kling 4.0 on DramaSo](https://drama.so/features/kling-short-drama-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=unfukashigi-486415)** · [Original file](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2113407929311486415-video.mp4) · [Source post](https://x.com/UNfukashigi/status/2113407929311486415)
+**[▶ Make a short drama with Kling 4.0 on DramaSo](https://drama.so/prompts/kling-4-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=unfukashigi-486415#story)** · [Original file](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2113407929311486415-video.mp4) · [Source post](https://x.com/UNfukashigi/status/2113407929311486415)
 
 - Author / credit: 不可思議ちゃん＠AI漫画 (@UNfukashigi)
 - Duration: 10.10 seconds
@@ -20,4 +20,4 @@ The creator did not publish an exact prompt in the sources reviewed for this ent
 
 Original media, prompts and post text remain the property of their creators. See [media rights](../MEDIA-RIGHTS.md).
 
-[More Kling 4.0 work on DramaSo →](https://drama.so/features/kling-short-drama-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos)
+[More Kling 4.0 work on DramaSo →](https://drama.so/prompts/kling-4-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos)

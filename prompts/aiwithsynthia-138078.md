@@ -1,8 +1,8 @@
 # Manhattan Traffic Jam in a Red Roadster
 
-[![Preview](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2113600946228138078-preview.webp)](https://drama.so/features/kling-short-drama-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=aiwithsynthia-138078)
+[![Preview](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2113600946228138078-preview.webp)](https://drama.so/prompts/kling-4-0/aiwithsynthia-138078?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=aiwithsynthia-138078)
 
-**[▶ Make a short drama with Kling 4.0 on DramaSo](https://drama.so/features/kling-short-drama-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=aiwithsynthia-138078)** · [Original file](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2113600946228138078-video.mp4) · [Source post](https://x.com/AIwithSynthia/status/2113600946228138078)
+**[▶ Make a short drama with Kling 4.0 on DramaSo](https://drama.so/prompts/kling-4-0/aiwithsynthia-138078?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=aiwithsynthia-138078)** · [Original file](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2113600946228138078-video.mp4) · [Source post](https://x.com/AIwithSynthia/status/2113600946228138078)
 
 - Author / credit: Synthia (@AIwithSynthia)
 - Duration: 30.14 seconds
@@ -104,4 +104,4 @@ Prompt source: https://x.com/AIwithSynthia/status/2113600946228138078
 
 Original media, prompts and post text remain the property of their creators. See [media rights](../MEDIA-RIGHTS.md).
 
-[More Kling 4.0 work on DramaSo →](https://drama.so/features/kling-short-drama-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos)
+[More Kling 4.0 work on DramaSo →](https://drama.so/prompts/kling-4-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos)

@@ -29,7 +29,8 @@
     "landingUrl": "https://drama.so/features/kling-short-drama-generator",
     "landingUrlZh": "https://drama.so/zh/blog/kling-4-0-short-drama",
     "cta": "Make a short drama with Kling 4.0 on DramaSo",
-    "ctaZh": "在 DramaSo 用 Kling 4.0 拍一部短剧"
+    "ctaZh": "在 DramaSo 用 Kling 4.0 拍一部短剧",
+    "pagesUrl": "https://drama.so/prompts/kling-4-0"
   },
   "mediaHosts": [
     "bibigpt-apps.chatvid.ai"

@@ -1,8 +1,8 @@
 # Mexican Mafia Scene in Spanish
 
-[![Preview](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2111902123520930061-preview.webp)](https://drama.so/features/kling-short-drama-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=mayorkingai-930061)
+[![Preview](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2111902123520930061-preview.webp)](https://drama.so/prompts/kling-4-0/mayorkingai-930061?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=mayorkingai-930061)
 
-**[▶ Make a short drama with Kling 4.0 on DramaSo](https://drama.so/features/kling-short-drama-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=mayorkingai-930061)** · [Original file](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2111902123520930061-video.mp4) · [Source post](https://x.com/MayorKingAI/status/2111902123520930061)
+**[▶ Make a short drama with Kling 4.0 on DramaSo](https://drama.so/prompts/kling-4-0/mayorkingai-930061?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=mayorkingai-930061)** · [Original file](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2111902123520930061-video.mp4) · [Source post](https://x.com/MayorKingAI/status/2111902123520930061)
 
 - Author / credit: MayorkingAI (@MayorKingAI)
 - Duration: 30.09 seconds
@@ -85,4 +85,4 @@ Prompt source: https://x.com/MayorKingAI/status/2111902136875565360
 
 Original media, prompts and post text remain the property of their creators. See [media rights](../MEDIA-RIGHTS.md).
 
-[More Kling 4.0 work on DramaSo →](https://drama.so/features/kling-short-drama-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos)
+[More Kling 4.0 work on DramaSo →](https://drama.so/prompts/kling-4-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos)

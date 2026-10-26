@@ -1,8 +1,8 @@
 # Luxury Interior Multi-Shot Ad (4.0 Flash)
 
-[![Preview](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2105275472552542625-preview.webp)](https://drama.so/features/kling-short-drama-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=worldeverett-542625)
+[![Preview](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2105275472552542625-preview.webp)](https://drama.so/prompts/kling-4-0/worldeverett-542625?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=worldeverett-542625)
 
-**[▶ Make a short drama with Kling 4.0 on DramaSo](https://drama.so/features/kling-short-drama-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=worldeverett-542625)** · [Original file](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2105275472552542625-video.mp4) · [Source post](https://x.com/WorldEverett/status/2105275472552542625)
+**[▶ Make a short drama with Kling 4.0 on DramaSo](https://drama.so/prompts/kling-4-0/worldeverett-542625?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=worldeverett-542625)** · [Original file](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2105275472552542625-video.mp4) · [Source post](https://x.com/WorldEverett/status/2105275472552542625)
 
 - Author / credit: Everett World (@WorldEverett)
 - Duration: 15.09 seconds
@@ -38,4 +38,4 @@ Prompt source: https://x.com/WorldEverett/status/2105275472552542625
 
 Original media, prompts and post text remain the property of their creators. See [media rights](../MEDIA-RIGHTS.md).
 
-[More Kling 4.0 work on DramaSo →](https://drama.so/features/kling-short-drama-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos)
+[More Kling 4.0 work on DramaSo →](https://drama.so/prompts/kling-4-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos)

@@ -1,8 +1,8 @@
 # Rocket Launch, Delayed Sound: Kling vs Seedance
 
-[![Preview](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2113187370690379856-preview.webp)](https://drama.so/features/kling-short-drama-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=sebatheepan-379856)
+[![Preview](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2113187370690379856-preview.webp)](https://drama.so/prompts/kling-4-0/sebatheepan-379856?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=sebatheepan-379856)
 
-**[▶ Make a short drama with Kling 4.0 on DramaSo](https://drama.so/features/kling-short-drama-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=sebatheepan-379856)** · [Original file](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2113187370690379856-video.mp4) · [Source post](https://x.com/sebatheepan/status/2113187370690379856)
+**[▶ Make a short drama with Kling 4.0 on DramaSo](https://drama.so/prompts/kling-4-0/sebatheepan-379856?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=sebatheepan-379856)** · [Original file](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2113187370690379856-video.mp4) · [Source post](https://x.com/sebatheepan/status/2113187370690379856)
 
 - Author / credit: Pan (@sebatheepan)
 - Duration: 60.19 seconds
@@ -46,4 +46,4 @@ Prompt source: https://x.com/sebatheepan/status/2113187765944779146
 
 Original media, prompts and post text remain the property of their creators. See [media rights](../MEDIA-RIGHTS.md).
 
-[More Kling 4.0 work on DramaSo →](https://drama.so/features/kling-short-drama-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos)
+[More Kling 4.0 work on DramaSo →](https://drama.so/prompts/kling-4-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos)

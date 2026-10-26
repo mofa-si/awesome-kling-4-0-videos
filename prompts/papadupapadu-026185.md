@@ -1,8 +1,8 @@
 # FALL UP: Infinite Escape
 
-[![Preview](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2112336272929026185-preview.webp)](https://drama.so/features/kling-short-drama-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=papadupapadu-026185)
+[![Preview](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2112336272929026185-preview.webp)](https://drama.so/prompts/kling-4-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=papadupapadu-026185#story)
 
-**[▶ Make a short drama with Kling 4.0 on DramaSo](https://drama.so/features/kling-short-drama-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=papadupapadu-026185)** · [Original file](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2112336272929026185-video.mp4) · [Source post](https://x.com/papadupapadu/status/2112336272929026185)
+**[▶ Make a short drama with Kling 4.0 on DramaSo](https://drama.so/prompts/kling-4-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=papadupapadu-026185#story)** · [Original file](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2112336272929026185-video.mp4) · [Source post](https://x.com/papadupapadu/status/2112336272929026185)
 
 - Author / credit: PAPADU PAPADU (@papadupapadu)
 - Duration: 103.06 seconds
@@ -20,4 +20,4 @@ The creator did not publish an exact prompt in the sources reviewed for this ent
 
 Original media, prompts and post text remain the property of their creators. See [media rights](../MEDIA-RIGHTS.md).
 
-[More Kling 4.0 work on DramaSo →](https://drama.so/features/kling-short-drama-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos)
+[More Kling 4.0 work on DramaSo →](https://drama.so/prompts/kling-4-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos)

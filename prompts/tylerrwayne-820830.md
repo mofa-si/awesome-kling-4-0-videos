@@ -1,8 +1,8 @@
 # Fruit Juice Ad: 3 Models
 
-[![Preview](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2112166037487820830-preview.webp)](https://drama.so/features/kling-short-drama-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=tylerrwayne-820830)
+[![Preview](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2112166037487820830-preview.webp)](https://drama.so/prompts/kling-4-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=tylerrwayne-820830#comparison)
 
-**[▶ Make a short drama with Kling 4.0 on DramaSo](https://drama.so/features/kling-short-drama-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=tylerrwayne-820830)** · [Original file](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2112166037487820830-video.mp4) · [Source post](https://x.com/tylerrwayne/status/2112166037487820830)
+**[▶ Make a short drama with Kling 4.0 on DramaSo](https://drama.so/prompts/kling-4-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=tylerrwayne-820830#comparison)** · [Original file](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2112166037487820830-video.mp4) · [Source post](https://x.com/tylerrwayne/status/2112166037487820830)
 
 - Author / credit: Tyler Wayne (@tylerrwayne)
 - Duration: 15.09 seconds
@@ -20,4 +20,4 @@ The creator did not publish an exact prompt in the sources reviewed for this ent
 
 Original media, prompts and post text remain the property of their creators. See [media rights](../MEDIA-RIGHTS.md).
 
-[More Kling 4.0 work on DramaSo →](https://drama.so/features/kling-short-drama-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos)
+[More Kling 4.0 work on DramaSo →](https://drama.so/prompts/kling-4-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos)

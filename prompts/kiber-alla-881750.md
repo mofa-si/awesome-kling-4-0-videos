@@ -1,8 +1,8 @@
 # A Kiss Stolen from the Count
 
-[![Preview](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2114039729997881750-preview.webp)](https://drama.so/features/kling-short-drama-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=kiber-alla-881750)
+[![Preview](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2114039729997881750-preview.webp)](https://drama.so/prompts/kling-4-0/kiber-alla-881750?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=kiber-alla-881750)
 
-**[▶ Make a short drama with Kling 4.0 on DramaSo](https://drama.so/features/kling-short-drama-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=kiber-alla-881750)** · [Original file](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2114039729997881750-video.mp4) · [Source post](https://x.com/Kiber_Alla/status/2114039729997881750)
+**[▶ Make a short drama with Kling 4.0 on DramaSo](https://drama.so/prompts/kling-4-0/kiber-alla-881750?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=kiber-alla-881750)** · [Original file](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2114039729997881750-video.mp4) · [Source post](https://x.com/Kiber_Alla/status/2114039729997881750)
 
 - Author / credit: Kiber Alla (@Kiber_Alla)
 - Duration: 37.36 seconds
@@ -52,4 +52,4 @@ Prompt source: https://x.com/Kiber_Alla/status/2114039733688946759
 
 Original media, prompts and post text remain the property of their creators. See [media rights](../MEDIA-RIGHTS.md).
 
-[More Kling 4.0 work on DramaSo →](https://drama.so/features/kling-short-drama-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos)
+[More Kling 4.0 work on DramaSo →](https://drama.so/prompts/kling-4-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos)

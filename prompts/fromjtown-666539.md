@@ -1,8 +1,8 @@
 # Hyper-Kinetic Desert Combat
 
-[![Preview](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2112967291608666539-preview.webp)](https://drama.so/features/kling-short-drama-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=fromjtown-666539)
+[![Preview](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2112967291608666539-preview.webp)](https://drama.so/prompts/kling-4-0/fromjtown-666539?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=fromjtown-666539)
 
-**[▶ Make a short drama with Kling 4.0 on DramaSo](https://drama.so/features/kling-short-drama-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=fromjtown-666539)** · [Original file](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2112967291608666539-video.mp4) · [Source post](https://x.com/fromjtown/status/2112967291608666539)
+**[▶ Make a short drama with Kling 4.0 on DramaSo](https://drama.so/prompts/kling-4-0/fromjtown-666539?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=fromjtown-666539)** · [Original file](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2112967291608666539-video.mp4) · [Source post](https://x.com/fromjtown/status/2112967291608666539)
 
 - Author / credit: JTOWN 🕷️ (@fromjtown)
 - Duration: 29.58 seconds
@@ -62,4 +62,4 @@ Prompt source: https://x.com/fromjtown/status/2112974523670638644
 
 Original media, prompts and post text remain the property of their creators. See [media rights](../MEDIA-RIGHTS.md).
 
-[More Kling 4.0 work on DramaSo →](https://drama.so/features/kling-short-drama-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos)
+[More Kling 4.0 work on DramaSo →](https://drama.so/prompts/kling-4-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos)

@@ -1,8 +1,8 @@
 # Bank Heist Action-Comedy (4.0 Flash)
 
-[![Preview](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2104974096513872227-preview.webp)](https://drama.so/features/kling-short-drama-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=mayorkingai-872227)
+[![Preview](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2104974096513872227-preview.webp)](https://drama.so/prompts/kling-4-0/mayorkingai-872227?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=mayorkingai-872227)
 
-**[▶ Make a short drama with Kling 4.0 on DramaSo](https://drama.so/features/kling-short-drama-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=mayorkingai-872227)** · [Original file](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2104974096513872227-video.mp4) · [Source post](https://x.com/MayorKingAI/status/2104974096513872227)
+**[▶ Make a short drama with Kling 4.0 on DramaSo](https://drama.so/prompts/kling-4-0/mayorkingai-872227?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos&utm_content=mayorkingai-872227)** · [Original file](https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2104974096513872227-video.mp4) · [Source post](https://x.com/MayorKingAI/status/2104974096513872227)
 
 - Author / credit: MayorkingAI (@MayorKingAI)
 - Duration: 20.11 seconds
@@ -58,4 +58,4 @@ Prompt source: https://x.com/MayorKingAI/status/2104974109050535941
 
 Original media, prompts and post text remain the property of their creators. See [media rights](../MEDIA-RIGHTS.md).
 
-[More Kling 4.0 work on DramaSo →](https://drama.so/features/kling-short-drama-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos)
+[More Kling 4.0 work on DramaSo →](https://drama.so/prompts/kling-4-0?utm_source=github&utm_medium=readme&utm_campaign=awesome-kling-4-0-videos)
