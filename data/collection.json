@@ -7,7 +7,7 @@
   "description": "A curated collection of Kling 4.0 and Kling 4.0 Flash (Kuaishou) videos shared on X — short dramas, action and fights, native dialogue and music, anime, ads, cinematic worlds, keyframe/reference workflows and same-prompt model comparisons — with original files, creator credits and verbatim public prompts.",
   "descriptionZh": "收集 X 上的 Kling 4.0 与 Kling 4.0 Flash（快手可灵）视频作品：短剧与故事、动作打斗、原生对白与音乐、动漫、广告、电影感世界观、关键帧与参考工作流，以及同提示词模型对比；附原视频文件、创作者署名和公开的原文提示词。",
   "model": "Kling 4.0",
-  "collectedOn": "2026-10-28",
+  "collectedOn": "2026-10-29",
   "publicationCutoffUtc": "2026-09-28T00:00:00Z",
   "maxDurationSeconds": 120,
   "topics": [
@@ -83,6 +83,269 @@
     }
   ],
   "entries": [
+    {
+      "id": "iamrealsnow-869533",
+      "title": "Black Veil: One-Take Special Forces Raid",
+      "titleZh": "黑纱：一镜到底的特种部队夜袭",
+      "category": "action",
+      "author": {
+        "name": "Snow",
+        "handle": "iamrealsnow",
+        "url": "https://x.com/iamrealsnow"
+      },
+      "sourceUrl": "https://x.com/iamrealsnow/status/2115300539902869533",
+      "publishedAt": "2026-10-28T04:32:03Z",
+      "prompt": "Duration: Exactly 23 seconds | Aspect ratio: 16:9 | Style: Ultra photorealistic, next level military action.\n\nCreate a relentless covert special forces operation in a war-torn Middle Eastern city at night. Six elite masked commandos wear premium matte-black and desert-tan tactical armor, angular full-face ballistic masks, dark mirrored visors, high-cut helmets, night-vision optics, communication headsets, reinforced plate carriers, tactical gloves, and detailed military equipment. Their appearance is intimidating, sophisticated, and consistent. Each carries a realistic modern military rifle with optics, weapon light, and suppressor.\n\nACTION, 0–23 SECONDS: From the very first frame, the squad sprints through a narrow dusty street as incoming gunfire strikes the walls around them. The camera tracks backward smoothly as the masked leader signals an immediate advance. The team takes cover behind concrete barriers, returns controlled fire, and pushes forward through thick smoke. Without interrupting the movement, the camera swings alongside the operators as they rush through a damaged entrance into a fortified courtyard. Sparks, concrete fragments, dust, and muzzle flashes fill the scene. One operator provides cover while the others advance in tight formation. Armed hostiles appear ahead, triggering an intense firefight. The leader signals the final push, and the squad moves together across the courtyard toward an armored extraction vehicle. In the final seconds, the operators board rapidly as the vehicle accelerates into the dust-filled darkness under incoming fire. End with the vehicle still moving and the operation visibly in progress.\n\nCAMERA: One continuous, fluid tracking take for all 23 seconds. Natural handheld energy with professional stabilization, realistic camera inertia, clear spatial continuity, uninterrupted operator movement, and consistent screen direction. No cuts, no transitions, no scene changes, no time jumps, no missing frames, no frozen poses, no slow motion, no speed ramps, no filler, and no unnecessary close-ups.\n\nCINEMATIC REALISM: Photorealistic faces concealed by masks, highly detailed armor textures, authentic fabric movement, physically plausible recoil, realistic weapon handling, volumetric dust, harsh muzzle flashes, moonlit architecture, deep shadows, natural motion blur, powerful engine sounds, gunfire, radio chatter, and immersive cinematic sound design.\n\nSTRICT NEGATIVES: No character morphing, no duplicated soldiers, no changing masks, no costume alterations, no floating weapons, no deformed hands, no teleportation, no flickering, no stuttering, no abrupt camera jumps, no artificial frame interpolation artifacts, no logos, no subtitles, and no title cards.\n\nPRIORITY: Continuous action, stable character identity, premium tactical costumes, coherent movement, and maximum cinematic intensity from the first frame to the last.",
+      "promptSourceUrl": "https://x.com/iamrealsnow/status/2115300539902869533",
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2115300539902869533-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2115300539902869533-video.mp4",
+      "durationSeconds": 23.04
+    },
+    {
+      "id": "im-shahid7-117765",
+      "title": "KFC-Cap Kitty Picks a Fight",
+      "titleZh": "戴 KFC 帽的小猫打起来了",
+      "category": "story",
+      "author": {
+        "name": "Al-Shamus",
+        "handle": "im_shahid7",
+        "url": "https://x.com/im_shahid7"
+      },
+      "sourceUrl": "https://x.com/im_shahid7/status/2115311315657117765",
+      "publishedAt": "2026-10-28T05:14:52Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2115311315657117765-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2115311315657117765-video.mp4",
+      "durationSeconds": 19.04,
+      "note": "Post: Recreated this using Kling 4.0."
+    },
+    {
+      "id": "t-st-love-love-855254",
+      "title": "Angel and Devil Share a Cream Puff (Keyframes)",
+      "titleZh": "天使与小恶魔分吃奶油泡芙（关键帧）",
+      "category": "anime",
+      "author": {
+        "name": "五芒星",
+        "handle": "T_st_love_love",
+        "url": "https://x.com/T_st_love_love"
+      },
+      "sourceUrl": "https://x.com/T_st_love_love/status/2115321323685855254",
+      "publishedAt": "2026-10-28T05:54:38Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2115321323685855254-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2115321323685855254-video.mp4",
+      "durationSeconds": 10.04,
+      "note": "Post: keyframes used to set mid-shot poses and composition."
+    },
+    {
+      "id": "shun-cmdouga-393040",
+      "title": "Fictional Perfume Commercial in Red Roses",
+      "titleZh": "红玫瑰里的架空香水广告",
+      "category": "ads",
+      "author": {
+        "name": "しゅん｜AI×企業CM動画制作",
+        "handle": "shun_cmdouga",
+        "url": "https://x.com/shun_cmdouga"
+      },
+      "sourceUrl": "https://x.com/shun_cmdouga/status/2115549168278393040",
+      "publishedAt": "2026-10-28T21:00:01Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2115549168278393040-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2115549168278393040-video.mp4",
+      "durationSeconds": 30,
+      "note": "Post: Claude Code × After Effects × Kling 4.0; a fictional AI-made commercial."
+    },
+    {
+      "id": "fuminesama-952925",
+      "title": "Silver Knight Falls in a Daisy Field",
+      "titleZh": "雏菊花田里被打倒的白银骑士",
+      "category": "action",
+      "author": {
+        "name": "フミ姐ぇ様👠Fumi",
+        "handle": "fuminesama",
+        "url": "https://x.com/fuminesama"
+      },
+      "sourceUrl": "https://x.com/fuminesama/status/2115454691957952925",
+      "publishedAt": "2026-10-28T14:44:36Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2115454691957952925-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2115454691957952925-video.mp4",
+      "durationSeconds": 30.04
+    },
+    {
+      "id": "bastianxbt-461452",
+      "title": "Crash Zoom, Time-Freeze and Whip Pan in One 8s Shot",
+      "titleZh": "8 秒一镜：推镜、时间静止与甩镜",
+      "category": "workflow",
+      "author": {
+        "name": "Bastian",
+        "handle": "bastianxbt",
+        "url": "https://x.com/bastianxbt"
+      },
+      "sourceUrl": "https://x.com/bastianxbt/status/2115385300440461452",
+      "publishedAt": "2026-10-28T10:08:52Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2115385300440461452-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2115385300440461452-video.mp4",
+      "durationSeconds": 7.79,
+      "note": "Post: the prompt described the camera moves, not the character (prompt not published)."
+    },
+    {
+      "id": "mirali6is-399238",
+      "title": "Gothic Tale Under a Blood Moon",
+      "titleZh": "血月下的哥特小故事",
+      "category": "worlds",
+      "author": {
+        "name": "Mira",
+        "handle": "mirali6is",
+        "url": "https://x.com/mirali6is"
+      },
+      "sourceUrl": "https://x.com/mirali6is/status/2115420321654399238",
+      "publishedAt": "2026-10-28T12:28:01Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2115420321654399238-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2115420321654399238-video.mp4",
+      "durationSeconds": 18.04
+    },
+    {
+      "id": "k-naokun0329-820294",
+      "title": "\"Paw, Please\": A Dachshund Picks Her Partner",
+      "titleZh": "「握手」：腊肠犬选了谁",
+      "category": "story",
+      "author": {
+        "name": "なの｜AIでつくる会社員🐾",
+        "handle": "k_naokun0329",
+        "url": "https://x.com/k_naokun0329"
+      },
+      "sourceUrl": "https://x.com/k_naokun0329/status/2115428379725820294",
+      "publishedAt": "2026-10-28T13:00:03Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2115428379725820294-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2115428379725820294-video.mp4",
+      "durationSeconds": 15,
+      "note": "Post: AI video by Kling 4.0, music by Suno."
+    },
+    {
+      "id": "hbcoop-946606",
+      "title": "Kling 2.6 vs 4.0: Underwater Profile Close-Up",
+      "titleZh": "Kling 2.6 对比 4.0：水下侧脸特写",
+      "category": "comparison",
+      "author": {
+        "name": "Heather Cooper",
+        "handle": "HBCoop_",
+        "url": "https://x.com/HBCoop_"
+      },
+      "sourceUrl": "https://x.com/HBCoop_/status/2115443305244946606",
+      "publishedAt": "2026-10-28T13:59:21Z",
+      "prompt": "Close-up underwater profile shot: A young woman with glowing skin and vivid red lips. Realistic skin texture, pores visible, micro-expressions, subtle blemishes. Sunlight pierces the turquoise water, creating sparkling highlights and casting dynamic shadows. A single bubble rises near her face, adding motion to the scene. She turns her head slightly and blinks. Camera pulls back very slowly, smooth motion, shot with 85mm lens, shallow depth of field, emphasis on water bubbles and surface water motion physics and golden hour lighting.",
+      "promptSourceUrl": "https://x.com/HBCoop_/status/2115443305244946606",
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2115443305244946606-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2115443305244946606-video.mp4",
+      "durationSeconds": 10.08,
+      "note": "Image-to-video, same start image and prompt; Test 01 of a 4-part thread."
+    },
+    {
+      "id": "hbcoop-516282",
+      "title": "Kling 3.0 Omni vs 4.0 Omni: Anime Glance in a Corridor",
+      "titleZh": "Kling 3.0 Omni 对比 4.0 Omni：走廊里的回眸",
+      "category": "comparison",
+      "author": {
+        "name": "Heather Cooper",
+        "handle": "HBCoop_",
+        "url": "https://x.com/HBCoop_"
+      },
+      "sourceUrl": "https://x.com/HBCoop_/status/2115443417849516282",
+      "publishedAt": "2026-10-28T13:59:48Z",
+      "prompt": "Realistic Anime-style close-up. A young woman with a messy black bob and a backpack strap over one shoulder glances back over her shoulder in a long fluorescent-lit corridor. She holds the look for a beat, her lips parting slightly as if about to speak, then turns her head forward again. Loose strands of hair settle back against her cheek after the turn. The fluorescent lights above cast a cool teal-green wash. A blurred figure walks in the far background. Static camera, shallow depth of field isolating the subject, cool desaturated palette with slight cyan push, anime-cinematic rendering",
+      "promptSourceUrl": "https://x.com/HBCoop_/status/2115443417849516282",
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2115443417849516282-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2115443417849516282-video.mp4",
+      "durationSeconds": 20.08,
+      "note": "Same prompt; Test 04 of a 4-part thread."
+    },
+    {
+      "id": "aisamsonreal-763881",
+      "title": "Same Image, Three Models: Warehouse Dancer",
+      "titleZh": "同图同提示词三模型对比：仓库里的舞者",
+      "category": "comparison",
+      "author": {
+        "name": "AI Samson",
+        "handle": "aisamsonreal",
+        "url": "https://x.com/aisamsonreal"
+      },
+      "sourceUrl": "https://x.com/aisamsonreal/status/2115338169910763881",
+      "publishedAt": "2026-10-28T07:01:35Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2115338169910763881-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2115338169910763881-video.mp4",
+      "durationSeconds": 17.1,
+      "note": "Top: Seedance 2.5, middle: Kling 4.0, bottom: Wan 3.0; prompt not published."
+    },
+    {
+      "id": "endfolding79421-375478",
+      "title": "Hamster Rock Star and Two Shocked Cats",
+      "titleZh": "仓鼠摇滚明星和两只惊呆的猫",
+      "category": "story",
+      "author": {
+        "name": "FoldingEnd A.I.",
+        "handle": "EndFolding79421",
+        "url": "https://x.com/EndFolding79421"
+      },
+      "sourceUrl": "https://x.com/EndFolding79421/status/2115559321916375478",
+      "publishedAt": "2026-10-28T21:40:22Z",
+      "prompt": "The supplied three-panel storyboard showing the hamster playing guitar, the two shocked cats watching from the bed, and the hamster eating a sunflower seed.Use this single storyboard as the visual reference for the entire video. Each panel represents a different scene in chronological order, from top to bottom.Preserve the exact appearances of the hamster, both cats, miniature electric guitar, hamster cage, bedroom, and lighting throughout.Photorealistic live-action animal comedy, professional 35mm cinematic appearance, natural indoor lighting, realistic fur, detailed textures, believable animal movements, and clean image quality. No cartoon appearance or excessive saturation.00:00–00:05 — THE ROCK STARBegin with the TOP PANEL of the storyboard.Inside its hamster cage in a cozy bedroom, a tiny golden hamster stands on its hind legs, enthusiastically playing a miniature black electric guitar.Its tiny paws rapidly move across the strings, perfectly synchronized with the fast heavy-metal guitar riffs in the supplied audio.The hamster rocks its little body back and forth, furiously headbanging while playing.The camera slowly pushes closer to the hamster.00:05–00:09 — THE SHOCKED AUDIENCE Cut to the MIDDLE PANEL of the storyboard.Two cats sit together on the bed, staring toward the hamster cage.Both cats have wide, astonished eyes and slightly open mouths.The orange cat slowly turns its head toward the gray-and-white cat in complete disbelief.The gray-and-white cat remains frozen, staring at the hamster's outrageous performance.The heavy-metal music continues uninterrupted.00:09–00:13 — THE GRAND FINALECut back to the TOP PANEL.The hamster performs its final furious guitar solo, rapidly strumming and rocking its tiny body with incredible enthusiasm.Its movements follow the rhythm of the supplied music. As the final guitar notes ring out, the hamster finishes with one dramatic flourish.00:13–00:16 — COMIC RELIEFCut to the BOTTOM PANEL of the storyboard.The music has ended.The miniature guitar rests against the wooden hamster house.The hamster sits peacefully inside its cage, holding a sunflower seed between its tiny paws. It quietly nibbles the sunflower seed, its cheeks moving naturally as it eats.The camera remains completely stationary.Only the faint natural sounds of the hamster eating are heard.The hamster looks innocently toward the viewer and continues chewing as though absolutely nothing unusual happened.IMPORTANT:The three storyboard panels are separate sequential scenes, NOT a split-screen composition.Generate a full-frame 9:16 vertical video, using the individual storyboard panels to guide each shot.Maintain exact character consistency and the same bedroom environment throughout.Synchronize the guitar performance with the supplied music",
+      "promptSourceUrl": "https://x.com/EndFolding79421/status/2115559321916375478",
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2115559321916375478-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2115559321916375478-video.mp4",
+      "durationSeconds": 16.04,
+      "note": "Driven by a three-panel storyboard image plus a music track."
+    },
+    {
+      "id": "don3media-424855",
+      "title": "Ziggurat at Dusk: Letting the Ending Breathe",
+      "titleZh": "黄昏神塔：给结尾留白",
+      "category": "worlds",
+      "author": {
+        "name": "Done",
+        "handle": "Don3Media",
+        "url": "https://x.com/Don3Media"
+      },
+      "sourceUrl": "https://x.com/Don3Media/status/2115428374751424855",
+      "publishedAt": "2026-10-28T13:00:01Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2115428374751424855-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2115428374751424855-video.mp4",
+      "durationSeconds": 10.04,
+      "note": "Post: still by Nano Banana Pro, animated with Kling 4."
+    },
+    {
+      "id": "reel-success-854824",
+      "title": "Kling 4.0 vs Seedance 2.5: Kendama Grandma",
+      "titleZh": "Kling 4.0 对比 Seedance 2.5：玩剑玉的奶奶",
+      "category": "comparison",
+      "author": {
+        "name": "Reel Success",
+        "handle": "reel_success",
+        "url": "https://x.com/reel_success"
+      },
+      "sourceUrl": "https://x.com/reel_success/status/2115535375384854824",
+      "publishedAt": "2026-10-28T20:05:12Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2115535375384854824-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2115535375384854824-video.mp4",
+      "durationSeconds": 30.04,
+      "note": "Same prompts and reference images; prompt not published."
+    },
     {
       "id": "djajayerry75-215463",
       "title": "Wasteland Freerunning: 16-Cut Parkour Showcase",
