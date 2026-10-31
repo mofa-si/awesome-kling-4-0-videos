@@ -7,7 +7,7 @@
   "description": "A curated collection of Kling 4.0 and Kling 4.0 Flash (Kuaishou) videos shared on X — short dramas, action and fights, native dialogue and music, anime, ads, cinematic worlds, keyframe/reference workflows and same-prompt model comparisons — with original files, creator credits and verbatim public prompts.",
   "descriptionZh": "收集 X 上的 Kling 4.0 与 Kling 4.0 Flash（快手可灵）视频作品：短剧与故事、动作打斗、原生对白与音乐、动漫、广告、电影感世界观、关键帧与参考工作流，以及同提示词模型对比；附原视频文件、创作者署名和公开的原文提示词。",
   "model": "Kling 4.0",
-  "collectedOn": "2026-10-29",
+  "collectedOn": "2026-10-31",
   "publicationCutoffUtc": "2026-09-28T00:00:00Z",
   "maxDurationSeconds": 120,
   "topics": [
@@ -3157,6 +3157,213 @@
       "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2114807925906804739-video.mp4",
       "durationSeconds": 51.22,
       "note": "Post: Made with the new Kling 4.0 Keyframes. You give it the key moments of your story as still frames, and it animates everything in between.  It turned a normal video of me in my chair into a gothic room, shrunk me into a clay puppet for an Oogie Boogie chase, then flattened me into"
+    },
+    {
+      "id": "alin-reaper05-972882",
+      "title": "Crowded Alien Marketplace",
+      "titleZh": "拥挤的外星集市",
+      "category": "worlds",
+      "author": {
+        "name": "Alin",
+        "handle": "Alin_Reaper05",
+        "url": "https://x.com/Alin_Reaper05"
+      },
+      "sourceUrl": "https://x.com/Alin_Reaper05/status/2116029596868972882",
+      "publishedAt": "2026-10-30T04:49:04Z",
+      "prompt": "A human traveler walks through a crowded alien marketplace filled with species of different shapes and sizes. A six-limbed merchant unfolds colorful fabrics, a robotic vendor prepares food and small creatures scurry between the stalls. The camera weaves through the moving crowd, cinematic space opera, rich realistic detail.",
+      "promptSourceUrl": "https://x.com/Alin_Reaper05/status/2116029599104561566",
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2116029596868972882-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2116029596868972882-video.mp4",
+      "durationSeconds": 25.1
+    },
+    {
+      "id": "jaschua-936753",
+      "title": "Kaede Fights Back",
+      "titleZh": "Kaede 的反击",
+      "category": "action",
+      "author": {
+        "name": "Crenature",
+        "handle": "jaschua",
+        "url": "https://x.com/jaschua"
+      },
+      "sourceUrl": "https://x.com/jaschua/status/2116054539224936753",
+      "publishedAt": "2026-10-30T06:28:11Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2116054539224936753-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2116054539224936753-video.mp4",
+      "durationSeconds": 14.33,
+      "note": "Kling 4.0 against Seedance 2.5 for this fight. Prompt not pasted."
+    },
+    {
+      "id": "liluocheng13-581689",
+      "title": "Lanterns Along a Night Shore",
+      "titleZh": "夜岸上的灯笼",
+      "category": "worlds",
+      "author": {
+        "name": "Zidan 子丹",
+        "handle": "liluocheng13",
+        "url": "https://x.com/liluocheng13"
+      },
+      "sourceUrl": "https://x.com/liluocheng13/status/2116158166052581689",
+      "publishedAt": "2026-10-30T13:19:57Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2116158166052581689-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2116158166052581689-video.mp4",
+      "durationSeconds": 15.09,
+      "note": "Still from Midjourney 8.2, video Kling 4.0, 15s, 1080p. Prompt not pasted."
+    },
+    {
+      "id": "leohuanfang-031919",
+      "title": "A Dragon Learns to Bake",
+      "titleZh": "小龙学烘焙",
+      "category": "comparison",
+      "author": {
+        "name": "Leohuan",
+        "handle": "leohuanfang",
+        "url": "https://x.com/leohuanfang"
+      },
+      "sourceUrl": "https://x.com/leohuanfang/status/2116161074391031919",
+      "publishedAt": "2026-10-30T13:31:31Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2116161074391031919-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2116161074391031919-video.mp4",
+      "durationSeconds": 30.05,
+      "note": "Recreated a viral Seedance clip on Kling 4.0. The prompt text is not in the post."
+    },
+    {
+      "id": "neco1751662-090849",
+      "title": "Halloween Cookie Houses Wake Up",
+      "titleZh": "万圣节饼干屋醒了",
+      "category": "story",
+      "author": {
+        "name": "neco - AI Anime",
+        "handle": "neco1751662",
+        "url": "https://x.com/neco1751662"
+      },
+      "sourceUrl": "https://x.com/neco1751662/status/2116201012835090849",
+      "publishedAt": "2026-10-30T16:10:13Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2116201012835090849-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2116201012835090849-video.mp4",
+      "durationSeconds": 27.63,
+      "note": "Family-made cookie houses, animated with Kling 4.0 and Kling 4.0 Flash. Prompt not pasted."
+    },
+    {
+      "id": "mirali6is-317753",
+      "title": "Crimson Cactus with Teeth",
+      "titleZh": "长牙的深红仙人掌",
+      "category": "anime",
+      "author": {
+        "name": "Mira",
+        "handle": "mirali6is",
+        "url": "https://x.com/mirali6is"
+      },
+      "sourceUrl": "https://x.com/mirali6is/status/2116220169362317753",
+      "publishedAt": "2026-10-30T17:26:20Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2116220169362317753-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2116220169362317753-video.mp4",
+      "durationSeconds": 10.1,
+      "note": "ToshiArte daily cactus challenge. Stills MJ 8.2, video Kling 4.0. Prompt not pasted."
+    },
+    {
+      "id": "endfolding79421-369669",
+      "title": "One Prompt, Three Models in the Woods",
+      "titleZh": "同一提示词，三个模型的林中镜头",
+      "category": "comparison",
+      "author": {
+        "name": "FoldingEnd A.I.",
+        "handle": "EndFolding79421",
+        "url": "https://x.com/EndFolding79421"
+      },
+      "sourceUrl": "https://x.com/EndFolding79421/status/2115874233314369669",
+      "publishedAt": "2026-10-29T18:31:42Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2115874233314369669-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2115874233314369669-video.mp4",
+      "durationSeconds": 15.15,
+      "note": "Kling 4.0 vs Seedance 2.0 vs Seedance 2.5, same prompt and reference images, 720p, 15 seconds. Prompt text not pasted."
+    },
+    {
+      "id": "budgetpixel-477122",
+      "title": "Kickflip and a Wok, Two Models",
+      "titleZh": "踢滑板和颠锅，两个模型",
+      "category": "comparison",
+      "author": {
+        "name": "BudgetPixel AI",
+        "handle": "budgetpixel",
+        "url": "https://x.com/budgetpixel"
+      },
+      "sourceUrl": "https://x.com/budgetpixel/status/2116254751570477122",
+      "publishedAt": "2026-10-30T19:43:45Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2116254751570477122-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2116254751570477122-video.mp4",
+      "durationSeconds": 20.07,
+      "note": "Kling 4.0 vs Seedance 2.5, same prompt, one take each. Prompt text not pasted."
+    },
+    {
+      "id": "bmx-ai13-354759",
+      "title": "Dinosaur at the Christmas Door",
+      "titleZh": "圣诞门口的恐龙装",
+      "category": "story",
+      "author": {
+        "name": "BMX",
+        "handle": "bmx_ai13",
+        "url": "https://x.com/bmx_ai13"
+      },
+      "sourceUrl": "https://x.com/bmx_ai13/status/2115657376309354759",
+      "publishedAt": "2026-10-29T04:10:00Z",
+      "prompt": "SCENE CONTEXT\n30 second widescreen 1990s Christmas romcom comedy. Christmas Eve daytime, a cream and gold mansion foyer. A gorgeous woman in an inflatable dinosaur costume opens the door for her boyfriend and finds his gorgeous parents in equally absurd costumes. The boyfriend arrives last in a tuxedo. He gave everyone a different dress code.\n\nACTIVE REFERENCES\nCLAIRE: mid 20s, strikingly beautiful supermodel face, glossy brunette blowout, glam makeup with red lips, wearing a full body green inflatable T-rex costume with tiny arms and a Santa hat on the dinosaur head, her face visible through the open neck. Bright voice.\nMARGARET: 50s, stunning 90s supermodel glamour, sculpted cheekbones, voluminous blonde blowout, wearing a full body green Christmas tree costume covered in blinking multicolor bulbs and baubles, a gold star on her head. Silky voice.\nHAROLD: 50s, chiseled silver fox, sharp jaw, styled silver hair, wearing a full body red lobster costume with giant padded claws and a black satin bow tie at the neck. Deep dry voice.\nJAKE: late 20s, handsome, swept back blond 90s hair, sharp black tuxedo, holding red roses. Cheerful voice.\n\nLOCATION MAP\nForeground: marble floor.\nMidground: tall white double doors with a wreath, garland pillars with warm fairy lights, poinsettias, lit candles.\nBackground through the doors: snowy courtyard, snow falling at 3 km/h.\n\nFORMAT MODE\nTimed multishot, cuts only at the specified points, the camera does not cut on its own.\n\nOPTICS\nEach segment holds its stated FOV, no drift mid-segment. Soft vintage prime look, creamy fairy light bokeh.\n\nCAMERA\nEye level operator inside the foyer facing the doors, locked off comic framing, quick reaction cuts.\n\nACTION\n0.0s to 3.0s, WS 63 degrees: Claire waddles toward the doors in the swaying T-rex costume, practicing a roar with her tiny arms up. Doorbell chimes.\n3.0s HARD CUT\n\n3.0s to 5.0s, MS 47 degrees from behind Claire: she flings the doors open and shouts \"RAWR! Merry Christmas, baby!\"\n5.0s HARD CUT\n\n5.0s to 8.0s, WS 47 degrees reverse: Margaret the Christmas tree and Harold the lobster stand side by side on the snowy step, perfectly calm, bulbs blinking.\n8.0s HARD CUT\n\n8.0s to 10.0s, CU 29 degrees: Claire's smile freezes, her tiny T-rex arms stuck mid wave.\n10.0s HARD CUT\n\n10.0s to 13.0s, MCU 29 degrees: Margaret smiles elegantly, says \"You must be Claire.\" Claire off screen: \"And you must be a tree.\"\n13.0s HARD CUT\n\n13.0s to 16.0s, MS 47 degrees: Harold extends a giant lobster claw for a handshake. Claire strains her tiny T-rex arms forward. They fall short by a hand's width. Both keep straining in silence.\n16.0s HARD CUT\n\n16.0s to 19.0s, MCU 29 degrees: Harold taps his bow tie with his claw, says \"Jake said black tie.\" Margaret: \"He told me costume party.\" Claire: \"He told me dress fun.\"\n19.0s HARD CUT\n\n19.0s to 22.0s, WS 63 degrees: Jake steps up behind his parents in the sharp tuxedo with roses, stops dead, says \"Why is everyone dressed like that? I said formal dinner.\"\n22.0s HARD CUT\n\n22.0s to 25.0s, MS 47 degrees from behind Jake: the dinosaur, the tree and the lobster turn their heads toward him in perfect unison. All of Margaret's bulbs switch to solid red.\n25.0s HARD CUT\n\n25.0s to 27.0s, CU 29 degrees: Claire stares at Jake, says flatly \"Rawr.\" Her costume slowly deflates with a long wheeze around her.\n27.0s HARD CUT\n\n27.0s to 30.0s, WS 63 degrees: Harold pinches Jake's ear with his lobster claw and drags him inside past Claire. Jake yelps \"Ow ow ow!\" Margaret follows, bulbs blinking happily again.\n\nPERFORMANCE\nComedy through total seriousness: the parents treat their costumes as completely normal. Glamorous faces stay perfectly composed while the costumes are ridiculous. Claire's eyes widen in small steps, lips pressed together. Real skin texture, wet catch lights.\n\nPHYSICS\nInflatable costume sways and bounces with each step and sags softly when deflating. Lobster claws are heavy and padded. Snowflakes land and melt on hair and costumes.\n\nLIGHTING\nWarm 3200K tungsten interior from lamps, candles and fairy lights. Cool 5600K snow daylight through the doors as rim light. Margaret's costume bulbs cast colored light on nearby faces.\n\nAUDIO\nDiegetic only: doorbell chime, costume fan motor hum, plastic squeak, wind and snow hiss at the open door, bulbs clicking, deflating wheeze, spoken dialogue. No music.\n\nSTYLE\nPhotoreal 1990s holiday romcom on 35mm film, fine grain, soft halation.\n\nOUTPUT SETTINGS\n16:9 widescreen, real time, 24fps.\n\nPOSITIVE LOCKS\nSame four people, same costumes and same foyer in every cut. Faces stay beautiful and fully visible. Clean frames with no on-screen text, no subtitles, no captions, no logos, no watermarks.",
+      "promptSourceUrl": "https://x.com/bmx_ai13/status/2115657377542521030",
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2115657376309354759-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2115657376309354759-video.mp4",
+      "durationSeconds": 30.04
+    },
+    {
+      "id": "promptsin-202945",
+      "title": "Catching Him Off the Gondola",
+      "titleZh": "在缆车门外拉住他",
+      "category": "story",
+      "author": {
+        "name": "PromptSin",
+        "handle": "PromptSin",
+        "url": "https://x.com/PromptSin"
+      },
+      "sourceUrl": "https://x.com/PromptSin/status/2115783253693202945",
+      "publishedAt": "2026-10-29T12:30:11Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2115783253693202945-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2115783253693202945-video.mp4",
+      "durationSeconds": 15.09,
+      "note": "Characters Dorian Vane and Freya Lux. Created with Kling 4.0. Prompt not pasted."
+    },
+    {
+      "id": "buildfastwithai-034864",
+      "title": "Viking Fight, Kling 4.0 vs Seedance 2.5",
+      "titleZh": "维京人打戏：Kling 4.0 对 Seedance 2.5",
+      "category": "comparison",
+      "author": {
+        "name": "Build Fast with AI",
+        "handle": "BuildFastWithAI",
+        "url": "https://x.com/BuildFastWithAI"
+      },
+      "sourceUrl": "https://x.com/BuildFastWithAI/status/2115835304708034864",
+      "publishedAt": "2026-10-29T15:57:01Z",
+      "prompt": null,
+      "promptSourceUrl": null,
+      "posterUrl": "https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2115835304708034864-preview.webp",
+      "mediaUrl": "https://bibigpt-apps.chatvid.ai/awesome/kling-4-0/2115835304708034864-video.mp4",
+      "durationSeconds": 30.19,
+      "note": "Same prompt at 720p. Prompt text not pasted."
     }
   ]
 }
